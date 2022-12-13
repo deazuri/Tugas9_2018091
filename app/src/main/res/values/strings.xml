@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Rest API</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="deskripsi_album">NCT DREAM ALBUM GLITCH MODE SEALED (GLITCH VER dan SCRATCH VER)</string>
+    <string name="details">Album NCT DREAM (GLITCH MODE) berisi Photobook, sticker random 1 pcs, postcard random 1 pcs, photocard set 1 type for each version, lentucular card random 1 pcs, folded poster</string>
+    <string name="nb">READY STOK, NO POSTER, Price include packing (Harga sudah termasuk packing bubble wrap + polymailer/polymer plastic), Freebies snack</string>
+    <string name="price">HARGA</string>
+    <string name="Harga_Album">350.000</string>
+    <!--    fragment neozone-->
+    <string name="deskripsi_album2">NCT DREAM ALBUM NEOZONE SEALED </string>
+    <string name="details2">Album NCT 127 (NEOZONE) berisi Photobook, sticker random 1 pcs, postcard random 1 pcs, photocard set 1 type for each version, lentucular card random 1 pcs, folded poster</string>
+    <string name="nb2">READY STOK, NO POSTER, Price include packing (Harga sudah termasuk packing bubble wrap + polymailer/polymer plastic), Freebies snack</string>
+    <string name="price2">HARGA</string>
+    <string name="Harga_Album2">285.000</string>
+    <!--    fragment universe-->
+    <string name="deskripsi_album3">NCT DREAM ALBUM UNIVERSE NCT 2021 SEALED </string>
+    <string name="details3">Album NCT 2021 (UNIVERSE) berisi Photobook, sticker random 1 pcs, postcard random 1 pcs, photocard set 1 type for each version, lentucular card random 1 pcs, folded poster</string>
+    <string name="nb3">READY STOK, NO POSTER, Price include packing (Harga sudah termasuk packing bubble wrap + polymailer/polymer plastic), Freebies snack</string>
+    <string name="price3">HARGA</string>
+    <string name="Harga_Album3">385.000</string>
+    <string-array name="album">
+        <item>Perfect Velvet</item>
+        <item>Tempo</item>
+        <item>Universe</item>
+        <item>Psycho</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 285.000</item>
+        <item>Rp. 300.000</item>
+        <item>Rp. 250.000</item>
+        <item>Rp. 185.000</item>
+    </string-array>
+</resources>
